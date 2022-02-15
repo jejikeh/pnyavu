@@ -1,0 +1,4 @@
+﻿  lab02.cpp
+C:\Users\311\source\repos\lab02\lab02\lab02.cpp(44,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\311\source\repos\lab02\lab02\lab02.cpp(51,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  lab02.vcxproj -> C:\Users\311\source\repos\lab02\Debug\lab02.exe
